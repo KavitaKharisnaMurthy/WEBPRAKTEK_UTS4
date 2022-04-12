@@ -4,6 +4,7 @@ document.onmousemove = (event) => {
     box.style.left = event.clientX - (box.clientWidth / 2) + 'px';
 }
 
+
 function random(number) {
     return Math.floor(Math.random() * number)
 }
