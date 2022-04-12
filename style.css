@@ -1,0 +1,8 @@
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: thick solid black;
+    position: relative;
+    pointer-events: fill;
+}
