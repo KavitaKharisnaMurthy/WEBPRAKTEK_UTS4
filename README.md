@@ -1,2 +1,0 @@
-# WEBPRAKTEK_UTS4
-Pratikum
